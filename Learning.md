@@ -2,7 +2,7 @@
 
 **Planetary GIS Fundamentals**
 
-- [ ] Raster vs vector data  
+- [x] Raster vs vector data  
 - [ ] Latitude/longitude grids  
 - [ ] Map projections  
 - [ ] Coordinate reference systems  
@@ -119,7 +119,7 @@ Then change weights and observe the result.
 **Pathfinding**
 
 - [ ] Dijkstra's algorithm  
-- [ ] A\*  
+- [ ] A*  
 - [ ] heuristic concept  
 - [ ] admissible heuristic concept  
 - [ ] 4-neighbour vs 8-neighbour grids  
@@ -372,12 +372,6 @@ over terrain cost → GeoJSON route
 | routing/ ├── astar.py ├── grid.py ├── heuristic.py ├── route.py └── tests/ |
 | :---- |
 
-###  
-
-### 
-
-### 
-
 ### **Drill 4 \- Mini Periapsis**
 
 Dataset → backend → map → result
@@ -386,5 +380,3 @@ Dataset → backend → map → result
 
 | NASA data    ↓ preprocessing    ↓ terrain calculation    ↓ routing    ↓ FastAPI    ↓ basic interactive map |
 | :---- |
-
-### 
