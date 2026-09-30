@@ -4,7 +4,7 @@
 
 - [x] Raster vs vector data  
 - [x] Latitude/longitude grids  
-- [ ] Map projections  
+- [x] Map projections  
 - [ ] Coordinate reference systems  
 - [ ] Spatial resolution  
 - [ ] Pixel resolution vs geographic resolution  

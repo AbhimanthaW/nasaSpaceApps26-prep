@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/GIS Fundamentals/Latitude + Longitude Grids.md",
+                "file": "learning/1.0 GIS Fundamentals/1.4 Coordinate Reference Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latitude + Longitude Grids"
+              "title": "1.4 Coordinate Reference Systems"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/GIS Fundamentals/Latitude + Longitude Grids.md",
+                "file": "learning/1.0 GIS Fundamentals/1.4 Coordinate Reference Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/GIS Fundamentals/Latitude + Longitude Grids.md",
+                "file": "learning/1.0 GIS Fundamentals/1.4 Coordinate Reference Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/GIS Fundamentals/Latitude + Longitude Grids.md",
+                "file": "learning/1.0 GIS Fundamentals/1.4 Coordinate Reference Systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,12 +188,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "812124fcf7bbcb45",
+  "active": "9b47bba4425c3c39",
   "lastOpenFiles": [
-    "learning/GIS Fundamentals/Map Projections.md",
+    "learning/1.0 GIS Fundamentals/1.1 Raster vs Vector + The Raster Mental Model.md",
+    "learning/1.0 GIS Fundamentals/1.3 Map Projections.md",
+    "learning/1.0 GIS Fundamentals/1.4 Coordinate Reference Systems.md",
     "Learning.md",
-    "learning/GIS Fundamentals/Raster vs Vector + The Raster Mental Model.md",
-    "learning/GIS Fundamentals/Latitude + Longitude Grids.md",
+    "learning/1.0 GIS Fundamentals/1.2 Latitude + Longitude Grids.md",
     "README.md",
     "gitingore",
     "learning/GIS Fundamentals/Latitude / Longitude Grids.md",
