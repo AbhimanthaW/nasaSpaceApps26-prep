@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9157c029c58050d0",
+        "id": "2d882d53041d1b53",
         "type": "tabs",
         "children": [
           {
-            "id": "21bee8d47aadfc32",
+            "id": "812124fcf7bbcb45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/GIS Fundamentals/Raster vs Vector + The Raster Mental Model.md",
+                "file": "learning/GIS Fundamentals/Latitude + Longitude Grids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raster vs Vector + The Raster Mental Model"
+              "title": "Latitude + Longitude Grids"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/GIS Fundamentals/Raster vs Vector + The Raster Mental Model.md",
+                "file": "learning/GIS Fundamentals/Latitude + Longitude Grids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learning/GIS Fundamentals/Raster vs Vector + The Raster Mental Model.md",
+                "file": "learning/GIS Fundamentals/Latitude + Longitude Grids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/GIS Fundamentals/Raster vs Vector + The Raster Mental Model.md",
+                "file": "learning/GIS Fundamentals/Latitude + Longitude Grids.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,9 +188,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "21bee8d47aadfc32",
+  "active": "812124fcf7bbcb45",
   "lastOpenFiles": [
-    "senula.md",
-    "Learning.md"
+    "learning/GIS Fundamentals/Map Projections.md",
+    "Learning.md",
+    "learning/GIS Fundamentals/Raster vs Vector + The Raster Mental Model.md",
+    "learning/GIS Fundamentals/Latitude + Longitude Grids.md",
+    "README.md",
+    "gitingore",
+    "learning/GIS Fundamentals/Latitude / Longitude Grids.md",
+    "learning/GIS Fundamentals/Latitude ",
+    "senula.md"
   ]
 }

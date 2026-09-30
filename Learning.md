@@ -3,7 +3,7 @@
 **Planetary GIS Fundamentals**
 
 - [x] Raster vs vector data  
-- [ ] Latitude/longitude grids  
+- [x] Latitude/longitude grids  
 - [ ] Map projections  
 - [ ] Coordinate reference systems  
 - [ ] Spatial resolution  
