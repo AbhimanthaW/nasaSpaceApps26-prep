@@ -5,7 +5,7 @@
 - [x] Raster vs vector data  
 - [x] Latitude/longitude grids  
 - [x] Map projections  
-- [ ] Coordinate reference systems  
+- [x] Coordinate reference systems  
 - [ ] Spatial resolution  
 - [ ] Pixel resolution vs geographic resolution  
 - [ ] Bounding boxes  
