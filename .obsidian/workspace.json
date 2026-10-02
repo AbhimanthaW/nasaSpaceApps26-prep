@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning.md",
+                "file": "learning/1.0 GIS Fundamentals/1.5 Spatial Resolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning"
+              "title": "1.5 Spatial Resolution"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning.md",
+                "file": "learning/1.0 GIS Fundamentals/1.5 Spatial Resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning.md",
+                "file": "learning/1.0 GIS Fundamentals/1.5 Spatial Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning.md",
+                "file": "learning/1.0 GIS Fundamentals/1.5 Spatial Resolution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,9 @@
   },
   "active": "812124fcf7bbcb45",
   "lastOpenFiles": [
-    "learning/1.0 GIS Fundamentals/1.4 Coordinate Reference Systems.md",
     "Learning.md",
+    "learning/1.0 GIS Fundamentals/1.5 Spatial Resolution.md",
+    "learning/1.0 GIS Fundamentals/1.4 Coordinate Reference Systems.md",
     "learning/1.0 GIS Fundamentals/1.3 Map Projections.md",
     "learning/1.0 GIS Fundamentals/1.1 Raster vs Vector + The Raster Mental Model.md",
     "learning/1.0 GIS Fundamentals/1.2 Latitude + Longitude Grids.md",

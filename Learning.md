@@ -6,8 +6,8 @@
 - [x] Latitude/longitude grids  
 - [x] Map projections  
 - [x] Coordinate reference systems  
-- [ ] Spatial resolution  
-- [ ] Pixel resolution vs geographic resolution  
+- [x] Spatial resolution  
+- [x] Pixel resolution vs geographic resolution  
 - [ ] Bounding boxes  
 - [ ] Resampl
       - [ ] nearest  
