@@ -8,7 +8,7 @@
 - [x] Coordinate reference systems  
 - [x] Spatial resolution  
 - [x] Pixel resolution vs geographic resolution  
-- [ ] Bounding boxes  
+- [x] Bounding boxes  
 - [ ] Resampl
       - [ ] nearest  
       - [ ] bilinear  
